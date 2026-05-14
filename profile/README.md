@@ -2,7 +2,7 @@
 
 ## 💻 .NET & C#
 Repozytoria związane z ekosystemem .NET i C#
-* **[NazwaTwojegoRepo](https://github.com/twoja-organizacja/NazwaTwojegoRepo)** – Opis projektu w technologii .NET.
+* **[DotNET](https://github.com/FM-Test-organizacji/DotNET)** – Opis projektu w technologii .NET.
 
 ## 🐍 Python
 Repozytoria związane z ekosystemem Python
@@ -14,4 +14,4 @@ Zbiór projektów pomocniczych, skryptów oraz rozwiązań w różnych ekosystem
 * **[Projekt-testowy](https://github.com/FM-Test-organizacji/Projekt-testowy)** – Krótki opis tego, co robi ten projekt i w czym został napisany.
 
 ## 🛠️ Narzędzia & Konfiguracja
-* **[.github](https://github.com/FM-Test-organizacji)** – Pliki konfiguracyjne organizacji.
+* **[Katalog projektów](https://github.com/FM-Test-organizacji/.github/edit/main/profile/README.md)** – Pliki konfiguracyjne organizacji.
